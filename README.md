@@ -4,25 +4,11 @@ A template repository for creating Python coding examples and exercises for Robo
 
 ## 🚀 Getting Started
 
-### Step 1: Navigate to## 📦 Package Management - Keep It Simple
+### Step 1: Navigate to the Basics
 
-**Learn to use external packages with just the basics!** The `05_packages/` folder keeps it simple:
-
-### What You'll Learn
-
-- **pip install**: Add one external package to your Python
-- **requirements.txt**: Create a simple list of packages your project needs  
-- **pip commands**: The essential commands every Python developer uses
-
-### Why This Matters
-
-🎯 **Real Projects**: Most Python projects use external packages
-📝 **Sharing Code**: Requirements files help others run your code
-🔧 **Essential Skill**: pip is used daily by Python developers
-
-**Simple exercises with just one package (colorama) to keep it manageable!**```bash
+```bash
 cd 01_basics
-
+python variables.py
 ```
 
 ### Step 2: Start with Variables
