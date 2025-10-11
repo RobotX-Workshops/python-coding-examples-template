@@ -1,0 +1,38 @@
+Robot Sensor Data Log
+
+This file contains sample robot sensor readings for practice exercises.
+Each line represents different types of sensor data from autonomous robots.
+
+Battery levels: 85, 92, 78, 88, 95
+
+Sensor readings:
+- camera: active
+- ultrasonic: 1.8m
+- imu: calibrated
+- gps: locked
+- temperature: 23.5C
+
+Robot navigation systems are highly sophisticated.
+They integrate multiple sensors for autonomous operation.
+Data processing is crucial for robot decision making.
+
+Robot fleet status data:
+Robot: ATLAS-01
+Battery: 87%
+Location: Warehouse A
+Status: Patrolling
+
+Robot: NEXUS-02  
+Battery: 92%
+Location: Laboratory B
+Status: Data Collection
+
+Robot: SCOUT-03
+Battery: 79%
+Location: Field Site C
+Status: Mapping
+
+This file contains exactly 28 lines of robot data.
+Use this information to verify your sensor data processing functions.
+
+Keep building robots!

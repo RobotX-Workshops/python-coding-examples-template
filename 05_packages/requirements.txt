@@ -1,0 +1,5 @@
+# Simple requirements file for package management exercises
+# This file contains just one package to keep things simple
+
+# Cross-platform colored terminal text
+colorama>=0.4.4
